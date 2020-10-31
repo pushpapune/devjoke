@@ -1234,3 +1234,6 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+"What's the difference between a northern fairytale and a southern fairytale? A northern fairytale begins 'Once upon a time…' A southern fairytale begins 'Y'all ain't gonna believe this…'"
+
+***
