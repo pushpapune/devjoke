@@ -1234,3 +1234,7 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+Start every day off with a smile and get it over with.  
+
+***
